@@ -1,0 +1,6 @@
+---
+debug: False
+apiurl: https://safebrowsing.googleapis.com/v4/threatReport:submit
+apikey: <APIKEY>
+urllist: urllist.txt
+
